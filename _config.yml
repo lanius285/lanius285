@@ -24,7 +24,7 @@ baseurl: /lanius285
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://avaimg.lf127.net/img/YkM5THQrdmVJUUs4endCQVZyR3dFK2k3emE0cFJxNmo0V2d4SzVCUTBRcXRka2x0OHltUFVRPT0.jpg?imageView&thumbnail=110x110&quality=90&type=jpg
+avatar:file:///Users/falcon/Downloads/IMG_8335.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
